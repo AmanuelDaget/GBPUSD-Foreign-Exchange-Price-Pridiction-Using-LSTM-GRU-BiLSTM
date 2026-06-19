@@ -15,7 +15,7 @@ A controlled comparison of **LSTM**, **BiLSTM**, **GRU**, and a hybrid **CNN-BiL
 | **GRU** | **0.00961** | **0.00634** | **0.800** | **0.9837** | 48.50 | -4.35 | -7.08 |
 | **CNN-BiLSTM-Attn** | 0.01023 | 0.00709 | 0.896 | 0.9815 | **49.50** | **-1.03** | **-4.13** |
 
-**GRU** wins on regression accuracy. **CNN-BiLSTM-Attention** wins on directional accuracy and risk-adjusted trading metrics. No single model dominates every metric — see [Results](#results) for full discussion.
+**GRU** wins on regression accuracy. **CNN-BiLSTM-Attention** wins on directional accuracy and risk-adjusted trading metrics. No single model dominates every metric.
 
 ---
 
