@@ -26,6 +26,7 @@ forex-gbpusd-prediction/
 ├── data/
 │   └── gbpusd_hourly_newyorkTimezone.csv   # raw GBP/USD H1 data, Jun 2024 – May 2026
 ├── GBPUSD_Price_pridiction_Using_LSTM_GRU.ipynb                           # full pipeline: load → features → train → evaluate
+└── requirements.txt
 └── README.md
 ```
 
@@ -96,7 +97,7 @@ matplotlib
 
 Install with:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
 ```
 
 ---
