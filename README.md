@@ -26,13 +26,6 @@ forex-gbpusd-prediction/
 ├── data/
 │   └── gbpusd_hourly_newyorkTimezone.csv   # raw GBP/USD H1 data, Jun 2024 – May 2026
 ├── GBPUSD_Price_pridiction_Using_LSTM_GRU.ipynb                           # full pipeline: load → features → train → evaluate
-├── results/                                # generated after running (not tracked in git)
-│   ├── comparison.csv
-│   ├── backtest.csv
-│   ├── predictions.png
-│   ├── learning_curves.png
-│   ├── rmse_bar.png
-│   └── equity_curves.png
 └── README.md
 ```
 
@@ -57,8 +50,8 @@ The raw file is included in this repo under `data/`. No external download is nee
 ## Quickstart
 
 ```bash
-git clone https://github.com/<your-username>/forex-gbpusd-prediction.git
-cd forex-gbpusd-prediction
+git clone https://github.com/amanueldaget/GBPUSD-Foreign-Exchange-Price-Prediction-Using-LSTM-GRU-BiLSTM.git
+cd GBPUSD-Foreign-Exchange-Price-Prediction-Using-LSTM-GRU-BiLSTM
 
 pip install -r requirements.txt
 
