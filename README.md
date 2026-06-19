@@ -25,8 +25,7 @@ A controlled comparison of **LSTM**, **BiLSTM**, **GRU**, and a hybrid **CNN-BiL
 forex-gbpusd-prediction/
 ├── data/
 │   └── gbpusd_hourly_newyorkTimezone.csv   # raw GBP/USD H1 data, Jun 2024 – May 2026
-├── forex_run.py                            # full pipeline: load → features → train → evaluate
-├── requirements.txt
+├── GBPUSD_Price_pridiction_Using_LSTM_GRU.ipynb                           # full pipeline: load → features → train → evaluate
 ├── results/                                # generated after running (not tracked in git)
 │   ├── comparison.csv
 │   ├── backtest.csv
@@ -63,7 +62,7 @@ cd forex-gbpusd-prediction
 
 pip install -r requirements.txt
 
-python forex_run.py
+python GBPUSD_Price_pridiction_Using_LSTM_GRU.ipynb
 ```
 
 Results (metrics tables + plots) will be saved to `results/`.
@@ -111,7 +110,7 @@ pip install -r requirements.txt
 
 ## Configuration
 
-Edit the config block at the top of `forex_run.py`:
+Edit the config block at the top of `GBPUSD_Price_pridiction_Using_LSTM_GRU.ipynb`:
 
 ```python
 CSV_PATH   = "data/gbpusd_hourly_newyorkTimezone.csv"
