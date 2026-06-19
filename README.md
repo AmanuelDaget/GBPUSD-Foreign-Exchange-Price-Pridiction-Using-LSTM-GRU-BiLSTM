@@ -51,7 +51,7 @@ The raw file is included in this repo under `data/`. No external download is nee
 ## Quickstart
 
 ```bash
-git clone https://github.com/amanueldaget/GBPUSD-Foreign-Exchange-Price-Prediction-Using-LSTM-GRU-BiLSTM.git
+git clone https://github.com/AmanuelDaget/GBPUSD-Foreign-Exchange-Price-Pridiction-Using-LSTM-GRU-BiLSTM.git
 cd GBPUSD-Foreign-Exchange-Price-Prediction-Using-LSTM-GRU-BiLSTM
 
 pip install -r requirements.txt
@@ -124,11 +124,12 @@ If you use this code or dataset, please cite this repository:
 
 ```bibtex
 @misc{daget2026gbpusd,
-  author       = {Amanuel Daget and Robel Alemante and Mengistu Tessema},
+  author       = {Amanuel Daget},
   title        = {GBP/USD Forex Price Prediction Using LSTM, BiLSTM, GRU, and CNN-BiLSTM-Attention},
   year         = {2026},
-  institution  = {Bahir Dar Institute of Technology},
-  howpublished = {\url{https://github.com/<your-username>/forex-gbpusd-prediction}}
+  institution  = {Bahir Dar University},
+  note         = {Amanuel Daget: sponsored by University of Gondar},
+  howpublished = {\url{https://github.com/AmanuelDaget/GBPUSD-Foreign-Exchange-Price-Pridiction-Using-LSTM-GRU-BiLSTM}}
 }
 ```
 
@@ -144,5 +145,7 @@ This project is released under the MIT License. The dataset is provided for acad
 **Amanuel Daget** — BDU1807098
 
 Msc Student in AI and Data Science,
-Bahir Dar Institute of Technology.
+Bahirdar Institute of Technology.
 Bahir Dar, Ethiopia
+
+Lecturer at University of Gondar
