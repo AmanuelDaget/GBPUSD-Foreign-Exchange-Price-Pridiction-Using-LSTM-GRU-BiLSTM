@@ -139,18 +139,6 @@ If you use this code or dataset, please cite this repository:
 }
 ```
 
----
-
-## References
-
-Key papers that informed the methodology — see full presentation/report for all 12 citations:
-
-1. Hochreiter & Schmidhuber, "Long Short-Term Memory," *Neural Computation*, 1997.
-2. Cho et al., "Learning Phrase Representations using RNN Encoder-Decoder," *EMNLP*, 2014.
-3. Ghahremani & Nguyen, "Prediction of Foreign Currency Exchange Rates Using an Attention-Based LSTM Network," *Machine Learning with Applications*, 2025.
-4. Mabrouk et al., "Intraday Trading Strategy Based on GRU and CNN for the Forex Market," *Expert Systems with Applications*, 2022.
-
----
 
 ## License
 
@@ -158,10 +146,10 @@ This project is released under the MIT License. The dataset is provided for acad
 
 ---
 
-## Authors
+## Author
 
-- **Amanuel Daget** — BDU1807098
-- **Robel Alemante** — BDU1807131
-- **Mengistu Tessema** — BDU1807110
+**Amanuel Daget** — BDU1807098
 
-Supervised by **Dr. Chalachew**, Department of AI and Data Science, Bahir Dar Institute of Technology.
+Msc Student in AI and Data Science,
+Bahir Dar Institute of Technology.
+Bahir Dar, Ethiopia
